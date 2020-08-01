@@ -1,7 +1,8 @@
 # Neural-network
-Performance of neural network and convolutional neural network on Fashion-MNIST Data
+Classification and Performance of neural network and convolutional neural network on Fashion-MNIST Data
 
-Tools used: Jupyter Notebook
+Tools used: Jupyter Notebook:
+
 Languages Used: Python
 Libraries Used: Scikit-Learn, NumPy, Pandas, Keras, Neural Network
 
